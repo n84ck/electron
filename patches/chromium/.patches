@@ -1,3 +1,4 @@
+chromium-enable-vaapi.patch
 add_realloc.patch
 build_gn.patch
 dcheck.patch
